@@ -9,5 +9,5 @@ Original license: MIT License
 This derivative is by Joe DF
 Default SciTE4Ahk theme (by fincs) was used as template
 
-Version: 1.0
+Version: 1.0                                                                         
 Date: March 12, 2013
