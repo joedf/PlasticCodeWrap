@@ -2,6 +2,8 @@ PlasticCodeWrap4_SciTE4Ahk
 ==========================
 AutoHotkey syntax highlighting style for SciTE
 
+![Screenshot](/PlasticCodeWrap.style.preview.png "Screenshot")
+
 Ryan Todd's, 'Plastic Code Wrap.'                                                   
 ported to SciTE by Joe DF                              
 (http://www.plasticstare.com/)   
