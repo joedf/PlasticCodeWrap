@@ -2,9 +2,9 @@ PlasticCodeWrap4_SciTE4Ahk
 ==========================
 AutoHotkey syntax highlighting style for SciTE
 
-PlasticCodeWrap, ported to SciTE by Joe DF                                                        
-Copyright (c) 2008 Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>                                   
-Original license: MIT License
+Ryan Todd's, 'Plastic Code Wrap.'
+ported to SciTE by Joe DF
+(http://www.plasticstare.com/)
 
 This derivative is by Joe DF
 Default SciTE4Ahk theme (by fincs) was used as template
