@@ -6,7 +6,7 @@ Ryan Todd's, 'Plastic Code Wrap.'
 ported to SciTE by Joe DF                              
 (http://www.plasticstare.com/)   
 
-This derivative is by Joe DF
+This derivative is by Joe DF    
 Default SciTE4Ahk theme (by fincs) was used as template
 
 Version: 1.0                                                                         
