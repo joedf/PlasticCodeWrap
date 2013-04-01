@@ -12,13 +12,14 @@ This derivative is by Joe DF
 Default SciTE4Ahk theme (by [fincs](http://github.com/fincs/ "fincs")) was used as template
 
 Version: 1.0                                                                         
-Date: March 12, 2013
+Date: April 1, 2013
 
 For other text editors like:                  
 -Notepad++    
 -Sublime Text     
 -Textmate       
--AHK Studio       
+-AHK Studio  
+-FASMW     
      
 Get them all in a zip here:       
-https://joedf-projects.googlecode.com/files/PlasticCodeWrap_pack.zip
+https://joedf-projects.googlecode.com/files/PlasticCodeWrap_pack2.zip
