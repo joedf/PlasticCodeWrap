@@ -15,8 +15,8 @@ ported to SciTE by Joe DF
 This derivative is by Joe DF    
 Default SciTE4Ahk theme (by [fincs](http://github.com/fincs/ "fincs")) was used as template
 
-Version: 1.1                                                                         
-Date: April 14, 2013
+Version: 1.2                                                                         
+Date: July 9th, 2013
 
 For other text editors like:                  
 -Notepad++    
@@ -24,6 +24,7 @@ For other text editors like:
 -Textmate       
 -AHK Studio  
 -FASMW     
+-Dev-C++     
      
 Get them all in a zip here:       
 ([PlasticCodeWrap_pack.zip](PlasticCodeWrap_pack.zip?raw=true))
