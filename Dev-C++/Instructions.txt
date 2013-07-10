@@ -1,0 +1,25 @@
+PlasticCodeWrap for Orwell Dev-C++ Ported by Joe DF
+------------------------------------------
+
+Copy "PlasticCodeWrap.Syntax" to
+
+Setup Version :
+	"%appdata%\Dev-Cpp" or
+	C:\Users\<username>\AppData\Roaming\Dev-Cpp (Windows Vista/7) or
+	C:\Documents and Settings\<username>\Application Data\Dev-Cpp (Windows XP)
+
+Portable Version :
+	the subfolder called "config"
+
+then go to Dev-C++ "Tools -> Editor Options -> Colors" and set
+Select Theme to "PlasticCodeWrap".
+
+Optionally, in the "General" tab,
+change "Right Margin" : Width to 92 and Color to Silver
+	"Highlight current line" : Color to RGB (17,34,45)
+in the "Fonts" tab,
+	"Font" : Consolas, size 9
+	"Gutter" : Width to 4
+
+-------------------------------------------
+http://joedf.co.nr

@@ -1,0 +1,21 @@
+PlasticCodeWrap was created by Ryan Todd (in 2008)
+---------------------------------------------------------
+
+Textmate (Original) Version - (PlasticCodeWrap.tmTheme)
+By Ryan Todd
+http://www.plasticstare.com/plains/2006/07/18/textmate-revisited-vs-textwrangler/
+
+Note: Sublime Text - Compatible
+--
+
+Notepad++ Version - (PlasticCodeWrap_npp.xml)
+	Copyright (c) 2008 Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>
+
+--
+
+Scite4Ahk Version - (PlasticCodeWrap.style.properties)
+AHK Studio Version - (PlasticCodeWrap4AHK_Studio_v1.0.xml)
+FASMW Version - (PlasticCodeWrap_FASMW.ini)
+Dev-Cpp Version - (Dev-Cpp/PlasticCodeWrap.syntax)
+	by Joe DF - (Updated July 9th, 2013)
+http://joedf.co.nr
