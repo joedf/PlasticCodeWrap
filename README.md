@@ -16,14 +16,14 @@ Default SciTE4Ahk theme (by [fincs](http://github.com/fincs/ "fincs")) was used 
 Version: 1.2                                                                         
 Date: July 9th, 2013
 
-Now Available For:                  
--[SciTE4AutoHotkey (SciTE4Ahk)](http://www.autohotkey.net/~fincs/SciTE4AutoHotkey_3/web/)
--[Notepad++](1)    
--[Sublime Text](1)     
--[Textmate](1)       
--[AHK Studio](1)  
--[FASMW](1)     
--[Dev-C++](1)     
+Now Available For:                   
+-[AHK Studio](AHK_Studio)  
+-[Dev-C++](Dev-C++)     
+-[FASMW](FASMW)    
+-[Notepad++](Notepad++)    
+-[SciTE4AutoHotkey](SciTE4AutoHotkey)       
+-[Sublime Text](SublimeText_and_Textmate)     
+-[Textmate](SublimeText_and_Textmate)      
      
 Get them all in a zip here:       
 ([Master.zip](https://github.com/joedf/PlasticCodeWrap4_SciTE4Ahk/archive/master.zip))
