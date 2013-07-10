@@ -23,6 +23,7 @@ Now Available For:
 -[Dev-C++](Dev-C++)     
 -[FASMW](FASMW)    
 -[Notepad++](Notepad++)    
+-[Porgrammer's Notepad](Programmers_Notepad)
 -[SciTE4AutoHotkey](SciTE4AutoHotkey)       
 -[Sublime Text](SublimeText_and_Textmate)     
 -[Textmate](SublimeText_and_Textmate)      
