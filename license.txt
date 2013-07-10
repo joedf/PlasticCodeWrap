@@ -13,9 +13,11 @@ Notepad++ Version - (PlasticCodeWrap_npp.xml)
 
 --
 
-Scite4Ahk Version - (PlasticCodeWrap.style.properties)
-AHK Studio Version - (PlasticCodeWrap4AHK_Studio_v1.0.xml)
-FASMW Version - (PlasticCodeWrap_FASMW.ini)
+Scite4Ahk Version - (SciTE4AutoHotkey/PlasticCodeWrap.style.properties)
+AHK Studio Version - (AHK_Studio/PlasticCodeWrap4AHK_Studio.xml)
+FASMW Version - (FASMW/PlasticCodeWrap_FASMW.ini)
 Dev-Cpp Version - (Dev-Cpp/PlasticCodeWrap.syntax)
-	by Joe DF - (Updated July 9th, 2013)
+Programmer's Notepad - (Programmers_Notepad/PlasticCodeWrap.xml)
+
+by Joe DF - (Updated July 10th, 2013)
 http://joedf.co.nr

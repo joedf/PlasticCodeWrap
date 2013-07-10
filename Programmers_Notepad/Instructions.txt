@@ -1,0 +1,6 @@
+In your "Programmer's Notepad" Installation folder,
+copy "PlasticCodeWrap.xml" to the Subfolder called
+"presets". Now, Navigate to "Tools -> Options".
+Select under "Fonts and Colours" : "Styles". Now,
+under "Presets", select "PlasticCodeWrap", click
+"load", then "OK".

@@ -1,0 +1,7 @@
+If you don't want to lose all your settings, Simply copy the
+contents of "PlasticCodeWrap_FASMW.ini" and replace/add the
+old "[color]" Ini section in your original "FASM.ini" file.
+
+If you have no special settings that you need to keep, you
+can simply delete your old "FASM.ini" and  replace it with
+"PlasticCodeWrap_FASMW.ini", then rename it to "FASM.ini".

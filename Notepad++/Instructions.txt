@@ -1,0 +1,3 @@
+In Notepad++, Navigate to "Settings -> Import -> Import style theme(s)...", then
+select "PlasticCodeWrap.xml". Now open "Settings -> Style Configurator", then
+Set "Select theme" to "PlasticCodeWrap", and click "Save&Close".

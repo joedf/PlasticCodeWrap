@@ -1,0 +1,8 @@
+TextMate (Mac) :
+	Just double-click on the theme to install, or
+	copy them to your Themes folder
+	in ~/Library/Application Support/TextMate/Themes.
+
+SublimeText : 
+	Copy "PlasticCodeWrap.tmTheme" to your themes folder
+	in "Packages\Color Scheme - Default\"

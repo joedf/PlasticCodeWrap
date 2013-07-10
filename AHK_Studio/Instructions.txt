@@ -1,0 +1,5 @@
+From "AHK Studio", Navigate to "Edit -> Theme". Then,
+from the newly appeared window, Navigate
+to "Theme Options -> Import From File".
+Select file "PlasticCodeWrap4AHK_Studio.xml",
+now Select "Theme List -> PlasticCodeWrap4AHK_Studio".

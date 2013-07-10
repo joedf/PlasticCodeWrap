@@ -14,7 +14,9 @@ This derivative is by Joe DF (http://joedf.co.nr)
 Default SciTE4Ahk theme (by [fincs](http://github.com/fincs/ "fincs")) was used as template
 
 Version: 1.2                                                                         
-Date: July 9th, 2013
+Date: July 10th, 2013
+
+--> Contact Me for Requests, Comments, Contributions, etc.
 
 Now Available For:                   
 -[AHK Studio](AHK_Studio)  

@@ -1,0 +1,7 @@
+Copy "PlasticCodeWrap.style" to
+	"C:\Users\<username>\Documents\AutoHotkey\SciTE\Styles" or
+	"SciTE\Styles"
+
+Then, in SciTE4AutoHotkey, Select "Tools -> SciTE4AutoHotkey Setting...",
+then set "Style" to "PlasticCodeWrap", click "Update" and restart
+SciTE4AutoHotkey.
