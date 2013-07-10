@@ -18,6 +18,9 @@ AHK Studio Version - (AHK_Studio/PlasticCodeWrap4AHK_Studio.xml)
 FASMW Version - (FASMW/PlasticCodeWrap_FASMW.ini)
 Dev-Cpp Version - (Dev-Cpp/PlasticCodeWrap.syntax)
 Programmer's Notepad - (Programmers_Notepad/PlasticCodeWrap.xml)
+GVIM - (GVIM/PlasticCodeWrap.vim)
+jEdit - (jEdit/PlasticCodeWrap.jedit-scheme)
+Kate/KWrite - (Kate_KWrite/PlasticCodeWrap.txt)
 
-by Joe DF - (Updated July 10th, 2013)
+Ported by Joe DF - (Updated July 10th, 2013)
 http://joedf.co.nr

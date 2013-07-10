@@ -1,0 +1,18 @@
+First, 2 jEdit plugins must be installed to enable Syntax Highlighting:
+	-EditorScheme
+	-CommonControls
+
+then, Copy "PlasticCodeWrap.jedit-scheme" to
+"C:\Users\<username>\AppData\Roaming\jEdit\schemes" or
+"%appdata%/jEdit/schemes" or your appropriate settings folder "...\jEdit\schemes"
+if the "Schemes" folder does not exist, create it.
+
+now, to enable it, launch jEdit, in the menu top bar, navigate to
+"Plugins -> Editor Scheme -> Scheme Selector", then under "Schemes" select
+"PlasticCodeWrap" and click "Apply".
+
+Optionally, to smooth the look and feel, with the correct font settings :
+Navigate to "Utilities -> Options -> Text Area". Set "text font" to
+"Consolas 12 Plain" or "DejaVu Sans Mono 12 Plain" then to have smooth
+font look, Set "Anti Aliases smooth text" to "Subpixel HRGB" then click
+"Apply" and/or "Ok".

@@ -1,0 +1,22 @@
+# Ported by Joe DF
+# Converted from Textmate theme PlasticCodeWrap using Coloration v0.3.3 (http://github.com/sickill/coloration)
+
+scheme.name=PlasticCodeWrap
+view.fgColor=\#f8f8f8
+view.bgColor=\#0b161d
+view.caretColor=\#8ba7a7
+view.selectionColor=\#687b83
+view.eolMarkerColor=\#485056
+view.lineHighlightColor=\#081015
+view.style.comment1=color\:\#1e9ae0 style\:i
+view.style.literal1=color\:\#55e439 style\:
+view.style.label=color\:\#ff3a83 style\:
+view.style.digit=color\:\#ff3a83 style\:
+view.style.keyword1=color\:\#ffaa00 style\:b
+view.style.keyword2=color\:\#ffb454 style\:
+view.style.keyword3=color\:\#ff3a83 style\:
+view.style.keyword4=color\:\#fb9a4b style\:
+view.style.operator=color\:\#ffaa00 style\:b
+view.style.function=color\:\#efe900 style\:b
+view.style.literal3=color\:\#ffb454 style\:
+view.style.markup=color\:\#9effff style\:

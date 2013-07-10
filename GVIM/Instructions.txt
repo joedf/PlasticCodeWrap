@@ -1,0 +1,12 @@
+Copy "PlasticCodeWrap.vim" to your VIM "Colors" Folder...
+
+Possible Folders:
+	$VIMRUNTIME/colors
+unix:
+	~/.vim/colors
+Windows:
+	-\vimfiles/colors
+
+then, to apply it, launch GVIM, Navigate to "Edit -> Color Scheme",
+And select "PlasticCodeWrap", optionally you may change the font
+to "Consolas".
