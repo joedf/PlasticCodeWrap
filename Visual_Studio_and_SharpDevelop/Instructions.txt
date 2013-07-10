@@ -1,0 +1,11 @@
+Submitted by Andrius
+From Notepad++ 
+Author Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>;
+---
+Obtained from: http://studiostyl.es/schemes/plasticcodewrap
+----------------------
+
+Import into Visual Studio or SharpDevelop and Apply
+
+SharpDevelop: Navigate to "Tools -> Options -> Text Editor -> Highlighting"
+and import "plasticcodewrap.vssettings", then click "OK".

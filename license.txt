@@ -1,26 +1,37 @@
 PlasticCodeWrap was created by Ryan Todd (in 2008)
 ---------------------------------------------------------
+	Textmate (Original) Version - (PlasticCodeWrap.tmTheme)
+	By Ryan Todd
+	http://www.plasticstare.com/plains/2006/07/18/textmate-revisited-vs-textwrangler/
 
-Textmate (Original) Version - (PlasticCodeWrap.tmTheme)
-By Ryan Todd
-http://www.plasticstare.com/plains/2006/07/18/textmate-revisited-vs-textwrangler/
-
-Note: Sublime Text - Compatible
+	Note: Sublime Text - Compatible
 --
-Notepad++ Version - (PlasticCodeWrap_npp.xml)
+Notepad++ Version:
+	(PlasticCodeWrap_npp.xml)
 	Copyright (c) 2008 Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>
 --
-Eclipse Version : Plastic Code Wrap (Notepad++) - by Andrzej Haczewski
+Eclipse Version:
+	Plastic Code Wrap (Notepad++) - by Andrzej Haczewski
 	Obtained from : http://eclipsecolorthemes.org/?view=theme&id=582
 --
-Scite4Ahk Version - (SciTE4AutoHotkey/PlasticCodeWrap.style.properties)
-AHK Studio Version - (AHK_Studio/PlasticCodeWrap4AHK_Studio.xml)
-FASMW Version - (FASMW/PlasticCodeWrap_FASMW.ini)
-Dev-Cpp Version - (Dev-Cpp/PlasticCodeWrap.syntax)
-Programmer's Notepad - (Programmers_Notepad/PlasticCodeWrap.xml)
-GVIM - (GVIM/PlasticCodeWrap.vim)
-jEdit - (jEdit/PlasticCodeWrap.jedit-scheme)
-Kate/KWrite - (Kate_KWrite/PlasticCodeWrap.txt)
+Visual Studio Version:
+	Submitted by Andrius
+	From Notepad++ 
+	Author Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>;
+	---
+	Obtained from: http://studiostyl.es/schemes/plasticcodewrap
+	
+	Note: SharpDevelop - Compatible
+--
+Other Versions:
+	Scite4Ahk Version - (SciTE4AutoHotkey/PlasticCodeWrap.style.properties)
+	AHK Studio Version - (AHK_Studio/PlasticCodeWrap4AHK_Studio.xml)
+	FASMW Version - (FASMW/PlasticCodeWrap_FASMW.ini)
+	Dev-Cpp Version - (Dev-Cpp/PlasticCodeWrap.syntax)
+	Programmer's Notepad - (Programmers_Notepad/PlasticCodeWrap.xml)
+	GVIM - (GVIM/PlasticCodeWrap.vim)
+	jEdit - (jEdit/PlasticCodeWrap.jedit-scheme)
+	Kate/KWrite - (Kate_KWrite/PlasticCodeWrap.txt)
 
 Ported by Joe DF - (Updated July 10th, 2013)
 http://joedf.co.nr

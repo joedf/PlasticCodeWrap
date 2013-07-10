@@ -30,8 +30,10 @@ Now Available For:
 -[Notepad++](Notepad++)    
 -[Programmer's Notepad](Programmers_Notepad)     
 -[SciTE4AutoHotkey](SciTE4AutoHotkey)       
+-[SharpDevelop](Visual_Studio_and_SharpDevelop)     
 -[Sublime Text](SublimeText_and_Textmate)     
 -[Textmate](SublimeText_and_Textmate)      
+-[Visual Studio](Visual_Studio_and_SharpDevelop)     
      
 Get them all in a zip here:       
 ([Master.zip](https://github.com/joedf/PlasticCodeWrap4_SciTE4Ahk/archive/master.zip))
