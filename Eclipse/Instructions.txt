@@ -1,0 +1,6 @@
+Plastic Code Wrap (Notepad++) - by Andrzej Haczewski
+Obtained from : http://eclipsecolorthemes.org/?view=theme&id=582
+---------------------
+
+"PlasticCodeWrap.xml" - (XML) for Eclipse Color Theme Plugin
+"PlasticCodeWrap.epf" - (EPF) for Eclipse Import

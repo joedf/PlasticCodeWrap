@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="582" name="Plastic Code Wrap (Notepad++)" modified="2011-03-05 13:58:25" author="Andrzej Haczewski">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#FFCAB0" />
+    <writeOccurrenceIndication color="#FFCAB0" />
+    <findScope color="#CC0000" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#0B161D" />
+    <singleLineComment color="#1E9AE0" />
+    <multiLineComment color="#1E9AE0" />
+    <commentTaskTag color="#1E9AE0" bold="true" />
+    <javadoc color="#CCDF32" />
+    <javadocLink color="#D9E577" />
+    <javadocTag color="#D9E577" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#D25252" bold="false" underline="false" strikethrough="false" />
+    <interface color="#D197D9" />
+    <method color="#F8F8F8" />
+    <methodDeclaration color="#00FF7F" />
+    <bracket color="#D8D8D8" />
+    <number color="#FF7FFF" />
+    <string color="#55E439" />
+    <operator color="#F8F8F8" />
+    <keyword color="#FFAA00" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#BED6FF" />
+    <localVariable color="#79ABFF" />
+    <localVariableDeclaration color="#BED6FF" />
+    <field color="#BED6FF" />
+    <staticField color="#EFC090" />
+    <staticFinalField color="#EFC090" />
+    <deprecatedMember color="#D25252" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#EFC090" />
+    <background color="#0B161D" />
+    <currentLine color="#11222D" />
+    <foreground color="#F8F8F8" />
+    <lineNumber color="#EEEEEC" />
+    <selectionBackground color="#162E3D" />
+    <selectionForeground color="#C1CBD2" />
+</colorTheme>

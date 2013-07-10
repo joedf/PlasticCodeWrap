@@ -7,12 +7,12 @@ http://www.plasticstare.com/plains/2006/07/18/textmate-revisited-vs-textwrangler
 
 Note: Sublime Text - Compatible
 --
-
 Notepad++ Version - (PlasticCodeWrap_npp.xml)
 	Copyright (c) 2008 Fabio Zendhi Nagao <http://zend.lojcomm.com.br/>
-
 --
-
+Eclipse Version : Plastic Code Wrap (Notepad++) - by Andrzej Haczewski
+	Obtained from : http://eclipsecolorthemes.org/?view=theme&id=582
+--
 Scite4Ahk Version - (SciTE4AutoHotkey/PlasticCodeWrap.style.properties)
 AHK Studio Version - (AHK_Studio/PlasticCodeWrap4AHK_Studio.xml)
 FASMW Version - (FASMW/PlasticCodeWrap_FASMW.ini)
