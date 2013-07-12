@@ -1,0 +1,6 @@
+Aptana Version - By Joe DF
+-- Based on the original, with a simple few changes/fixes...
+--------
+
+Navigate to "Window -> Preferences -> Aptana Studio -> Themes", Click import,
+and select "PlasticCodeWrap.tmTheme". Now, click Apply/OK

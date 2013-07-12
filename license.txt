@@ -32,6 +32,7 @@ Other Versions:
 	GVIM - (GVIM/PlasticCodeWrap.vim)
 	jEdit - (jEdit/PlasticCodeWrap.jedit-scheme)
 	Kate/KWrite - (Kate_KWrite/PlasticCodeWrap.txt)
+	Aptana - (Aptana/PlasticCodeWrap.tmTheme)
 
 Ported by Joe DF - (Updated July 10th, 2013)
 http://joedf.co.nr

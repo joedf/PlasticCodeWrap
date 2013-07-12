@@ -7,19 +7,14 @@ PlasticCodeWrap
 --------------------------
 
 Ryan Todd's, 'Plastic Code Wrap.'                                                   
-ported to SciTE by Joe DF                              
+ported by Joe DF                              
 (http://www.plasticstare.com/)   
-
-This derivative is by Joe DF (http://joedf.co.nr)    
-Default SciTE4Ahk theme (by [fincs](http://github.com/fincs/ "fincs")) was used as template
-
-Version: 1.2                                                                         
-Date: July 10th, 2013
 
 --> Contact Me for Requests, Comments, Contributions, etc.
 
 Now Available For:                   
 -[AHK Studio](AHK_Studio)  
+-[Aptana](Aptana)   
 -[Dev-C++](Dev-C++)     
 -[Eclipse](Eclipse)      
 -[FASMW](FASMW)    
