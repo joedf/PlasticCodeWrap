@@ -6,11 +6,11 @@ PlasticCodeWrap
 
 --------------------------
 
-Ryan Todd's, 'Plastic Code Wrap.'                                                   
+Ryan Todd's 'Plastic Code Wrap'                          
 ported by Joe DF                              
 (http://www.plasticstare.com/)   
 
---> Contact Me for Requests, Comments, Contributions, etc.
+--> [Contact Me](mailto:joedf@users.sourceforge.net) for Requests, Comments, Contributions, etc.
 
 Now Available For:                   
 - [AHK Studio](AHK_Studio)  
