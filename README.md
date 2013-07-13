@@ -17,6 +17,7 @@ Now Available For:
 - [Aptana](Aptana)   
 - [Dev-C++](Dev-C++)     
 - [Eclipse](Eclipse)      
+- [EverEdit](EverEdit)
 - [FASMW](FASMW)    
 - [GVIM](GVIM)     
 - [jEdit](jEdit)     

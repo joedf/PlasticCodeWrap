@@ -1,0 +1,8 @@
+Copy "PlasticCodeWrap.ini" to EverEdit\Theme Folder...
+Then, Launch EverEdit and Navigate (in EverEdit) to "Tools -> Settings -> Theme"
+and select "PlasticCodeWrap" and Click Apply/OK...
+
+Optionally, You change the Font to:
+Consolas, size 10   or    DejaVu Sans Mono, size 10
+To change the Font, Navigate (in EverEdit) to "Tools -> Settings -> Font"
+and Select the font, then click Apply/OK.
