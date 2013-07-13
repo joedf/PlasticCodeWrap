@@ -32,4 +32,4 @@ Now Available For:
 - [Visual Studio](Visual_Studio_and_SharpDevelop)     
      
 Get them all in a zip here:       
-([Master.zip](https://github.com/joedf/PlasticCodeWrap4_SciTE4Ahk/archive/master.zip))
+([Master.zip](https://github.com/joedf/PlasticCodeWrap/archive/master.zip))
