@@ -29,8 +29,4 @@ Now Available For:
 - [Visual Studio](Visual_Studio_and_SharpDevelop)     
      
 Get them all in a zip here:       
-<<<<<<< HEAD
 ([Master.zip](https://github.com/joedf/PlasticCodeWrap/archive/master.zip))
-=======
-([Master.zip](https://github.com/joedf/PlasticCodeWrap/archive/master.zip))
->>>>>>> b8bfd7d112f6ee0eed91632f5956c1c7569bc89a
