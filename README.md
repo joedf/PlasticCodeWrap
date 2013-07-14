@@ -1,9 +1,6 @@
 PlasticCodeWrap
 ==========================
-![Screenshot](SciTE4AutoHotkey/PlasticCodeWrap.style.preview.png "Screenshot")
-
-![Screenshot](SciTE4AutoHotkey/PlasticCodeWrap.style.output.preview.png "Screenshot")
-
+![Preview](preview.png "Preview")
 --------------------------
 
 Ryan Todd's 'Plastic Code Wrap'                          
@@ -32,4 +29,4 @@ Now Available For:
 - [Visual Studio](Visual_Studio_and_SharpDevelop)     
      
 Get them all in a zip here:       
-([Master.zip](https://github.com/joedf/PlasticCodeWrap4_SciTE4Ahk/archive/master.zip))
+([Master.zip](https://github.com/joedf/PlasticCodeWrap/archive/master.zip))
