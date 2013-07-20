@@ -34,6 +34,7 @@ Other Versions:
 	Kate/KWrite - (Kate_KWrite/PlasticCodeWrap.txt)
 	Aptana - (Aptana/PlasticCodeWrap.tmTheme)
 	EverEdit - (EverEdit/PlasticCodeWrap.ini)
+	LopeEdit - (LopeEdit/PlasticCodeWrap.reg)
 
-Ported by Joe DF - (Updated July 13th, 2013)
+Ported by Joe DF - (Updated July 20th, 2013)
 http://joedf.co.nr

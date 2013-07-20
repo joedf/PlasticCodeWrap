@@ -20,6 +20,7 @@ Now Available For:
 - [jEdit](jEdit)     
 - [Kate](Kate_KWrite)     
 - [KWrite](Kate_KWrite)     
+- [LopeEdit](LopeEdit)       
 - [Notepad++](Notepad++)    
 - [Programmer's Notepad](Programmers_Notepad)     
 - [SciTE4AutoHotkey](SciTE4AutoHotkey)       
