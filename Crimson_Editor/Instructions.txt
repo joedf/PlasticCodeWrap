@@ -1,0 +1,6 @@
+Select "View -> Set Colors..."
+Under General, select "Colors" and load "PlasticCodeWrap.clr" color scheme,
+and click apply.
+
+Optionally, the font can be set to Consolas, size 10
+also, line can be shown, under "View -> Line Numbers"

@@ -35,6 +35,9 @@ Other Versions:
 	Aptana - (Aptana/PlasticCodeWrap.tmTheme)
 	EverEdit - (EverEdit/PlasticCodeWrap.ini)
 	LopeEdit - (LopeEdit/PlasticCodeWrap.reg)
+	Crimson Editor - (Crimson_Editor/PlasticCodeWrap.clr)
+	SciTE4D - (SciTE4D/d.properties)
+	WikiPad - (Wikipad/WikidPad.config)
 
-Ported by Joe DF - (Updated July 20th, 2013)
+Ported by Joe DF - (Updated July 22nd, 2013)
 http://joedf.co.nr
