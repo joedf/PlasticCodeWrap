@@ -22,6 +22,11 @@ Visual Studio Version:
 	Obtained from: http://studiostyl.es/schemes/plasticcodewrap
 	
 	Note: SharpDevelop - Compatible
+	
+--
+GEdit Version:
+	By Alexandre da Silva
+	https://github.com/ivyl/gedit-mate/blob/master/styles/PlasticCodeWrap.xml
 --
 Other Versions:
 	Scite4Ahk Version - (SciTE4AutoHotkey/PlasticCodeWrap.style.properties)
