@@ -1,5 +1,12 @@
-From "AHK Studio", Navigate to "Edit -> Theme". Then,
-from the newly appeared window, Navigate
-to "Theme Options -> Import From File".
-Select file "PlasticCodeWrap.xml"/"Monokai.xml",
-now Select "Theme List -> PlasticCodeWrap / Monokai".
+Note: Monokai and PlasticCodeWrap can now be downloaded from inside AHK Studio.
+
+---------------- [ Custom Install Method ] ----------------
+
+	From "AHK Studio", Navigate to "Edit -> Theme". Then,
+	from the newly appeared window, Navigate
+	to "Theme Options -> Import From File".
+	Select file "PlasticCodeWrap.xml"/"Monokai.xml",
+	now Select "Theme List -> PlasticCodeWrap / Monokai".
+	
+-----------------------------------------------------------
+
