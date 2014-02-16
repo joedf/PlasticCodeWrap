@@ -34,6 +34,7 @@ Other Versions:
 	FASMW Version - (FASMW/PlasticCodeWrap_FASMW.ini)
 	Dev-Cpp Version - (Dev-Cpp/PlasticCodeWrap.syntax)
 	Programmer's Notepad - (Programmers_Notepad/PlasticCodeWrap.xml)
+	PyScripter - (PyScripter/Monokai.ini)
 	GVIM - (GVIM/PlasticCodeWrap.vim)
 	jEdit - (jEdit/PlasticCodeWrap.jedit-scheme)
 	Kate/KWrite - (Kate_KWrite/PlasticCodeWrap.txt)
@@ -44,5 +45,5 @@ Other Versions:
 	SciTE4D - (SciTE4D/d.properties)
 	WikiPad - (Wikipad/WikidPad.config)
 
-Ported by Joe DF - (Updated July 22nd, 2013)
+Ported by Joe DF - (Updated February 16th, 2014)
 http://joedf.co.nr

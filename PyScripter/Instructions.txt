@@ -1,0 +1,12 @@
+Monokai has been ported, but not Plastic Code Wrap.
+
+- Select Menu : Tools -> Options -> Import/Export -> Import Highlighters
+  and then select "Monokai.ini"
+- Then select Menu: Tools -> Options -> Editor Options
+  and Set the "Active Line Color" to #34342C
+- Set the "Editor Font" to "Consolas 10pt"
+- Turn On "Use Gutter Font" and set the font to "Consolas 10pt"
+- Then set the "Gutter color" to #272822
+- Optionally, you may change the Editor Theme/Skin also
+  Select Menu: View -> Themes -> Office 2007 Black
+- Now, restart PyScripter. Finished.

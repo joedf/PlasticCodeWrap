@@ -24,6 +24,7 @@ Now Available For:
 - [LopeEdit](LopeEdit)       
 - [Notepad++](Notepad++)    
 - [Programmer's Notepad](Programmers_Notepad)     
+- [PyScripter](PyScripter)     
 - [SciTE4AutoHotkey](SciTE4AutoHotkey)       
 - [SciTE4D](SciTE4D)    
 - [SharpDevelop](Visual_Studio_and_SharpDevelop)     
