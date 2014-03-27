@@ -1,0 +1,14 @@
+Plastic Code Wrap for PHPStorm Installation Instructions
+==========================================================
+For PHPStorm v7.x
+Ported by Shadowdare
+
+1. Copy the "PlasticCodeWrap.icls" file to the appropriate directory below:
+
+Windows: %USERPROFILE%\.WebIde70\config\colors\
+Linux: ~/.WebIde70/config/colors/
+Mac OS X: ~/Library/Preferences/WebIde70/colors/
+
+
+2. Enable the theme by going to the settings of PHPStorm,
+navigate to Editor -> Colors & Fonts, then select PlasticCodeWrap.
