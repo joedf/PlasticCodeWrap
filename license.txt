@@ -24,6 +24,10 @@ Visual Studio Version:
 	Note: SharpDevelop - Compatible
 	
 --
+PHPStorm v7.x Version
+	Ported by Shadowdare
+	https://github.com/shadowdare
+--
 GEdit Version:
 	By Alexandre da Silva
 	https://github.com/ivyl/gedit-mate/blob/master/styles/PlasticCodeWrap.xml

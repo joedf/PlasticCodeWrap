@@ -4,7 +4,7 @@ PlasticCodeWrap
 --------------------------
 
 Ryan Todd's 'Plastic Code Wrap'                          
-ported by Joe DF                              
+ported by Joe DF, etc.                              
 (http://www.plasticstare.com/)   
 
 --> [Contact Me](mailto:joedf@users.sourceforge.net) for Requests, Comments, Contributions, etc.
@@ -23,6 +23,7 @@ Now Available For:
 - [KWrite](Kate_KWrite)     
 - [LopeEdit](LopeEdit)       
 - [Notepad++](Notepad++)    
+- [PHPStorm](PHPStorm)
 - [Programmer's Notepad](Programmers_Notepad)     
 - [PyScripter](PyScripter)     
 - [SciTE4AutoHotkey](SciTE4AutoHotkey)       
