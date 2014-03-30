@@ -1,5 +1,7 @@
+<?xml version="1.0"?>
 <!-- PlasticCodeWrap ported By Joe DF -->
 <fonts>
+	<author>joedf</author>
 	<font background="0x1D160B" bold="1" color="0xF8F8F2" font="Consolas" size="10" style="5" italic="0" strikeout="0" underline="0"></font>
 	<font background="0x36342E" style="33" color="0xECEEEE"></font>
 	<font code="2069" color="0xFF8080"></font>
@@ -19,7 +21,7 @@
 	<font style="21" color="0x400080"></font>
 	<font style="11" color="0xE09A1E" bold="0" font="Consolas" italic="1" size="10" strikeout="0" underline="0"></font>
 	<font style="17" color="0x9A93EB"></font>
-	<font bool="1" code="2068" color="0x3D2E16"/>
-	<font bool="1" code="2067" color="0xECE000"/>
-	<font code="2098" color="0x583F11"/>
+	<font bool="1" code="2068" color="0x3D2E16"></font>
+	<font bool="1" code="2067" color="0xECE000"></font>
+	<font code="2098" color="0x583F11"></font>
 </fonts>

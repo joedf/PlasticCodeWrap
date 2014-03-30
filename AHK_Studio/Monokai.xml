@@ -1,5 +1,7 @@
+<?xml version="1.0"?>
 <!-- Monokai ported By Joe DF -->
 <fonts>
+	<author>joedf</author>
 	<font background="0x222827" bold="1" color="0xF8F8F2" font="Consolas" size="10" style="5" italic="0" strikeout="0" underline="0"></font>
 	<font background="0x2D3534" style="33" color="0xECEEEE"></font>
 	<font code="2069" color="0xFF8080"></font>
@@ -18,8 +20,8 @@
 	<font style="22" color="0x8000FF"></font>
 	<font style="21" color="0x400080"></font>
 	<font style="11" color="0x5E7175" bold="0" font="Consolas" italic="1" size="10" strikeout="0" underline="0"></font>
-	<font style="17" color="0x9A93EB"/>
-	<font bool="1" code="2068" color="0x3E4849"/>
-	<font bool="1" code="2067" color="0xECE000"/>
-	<font code="2098" color="0x4E5460"/>
+	<font style="17" color="0x9A93EB"></font>
+	<font bool="1" code="2068" color="0x3E4849"></font>
+	<font bool="1" code="2067" color="0xECE000"></font>
+	<font code="2098" color="0x4E5460"></font>
 </fonts>
