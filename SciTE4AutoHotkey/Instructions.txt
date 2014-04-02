@@ -5,3 +5,8 @@ Copy "PlasticCodeWrap.style.properties" or "Monokai.style.properties" to
 Then, in SciTE4AutoHotkey, Select "Tools -> SciTE4AutoHotkey Setting...",
 then set "Style" to "PlasticCodeWrap", click "Update" and restart
 SciTE4AutoHotkey.
+
+
+Optionally, you could also do the following changes:
+- changes the font to Consolas, 10
+- set the "default zoom" to -1
