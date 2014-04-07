@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
-<!-- Monokai ported By Joe DF -->
 <fonts>
 	<author>joedf</author>
-	<font background="0x222827" bold="1" color="0xF8F8F2" font="Consolas" size="10" style="5" italic="0" strikeout="0" underline="0"></font>
+	<font background="0x222827" bold="0" color="0xF8F8F2" font="Consolas" size="10" style="5" italic="0" strikeout="0" underline="0"></font>
 	<font background="0x2D3534" style="33" color="0xECEEEE"></font>
 	<font code="2069" color="0xFF8080"></font>
 	<name>Monokai</name>
@@ -10,18 +9,24 @@
 	<font style="3" color="0x74DBE6"></font>
 	<font style="1" color="0x5E7175" bold="0" font="Consolas" italic="1" size="10" strikeout="0" underline="0"></font>
 	<font style="2" color="0xFF81AE"></font>
-	<font style="4" color="0xAFA600"></font>
-	<font style="15" color="0x2D8BAA"></font>
-	<font style="18" color="0xEFD966"></font>
-	<font style="19" color="0x0000AE"></font>
+	<font style="4" color="0x7226F9"></font>
+	<font style="15" color="0x74DBE6"></font>
+	<font style="18" color="0x7226F9"></font>
+	<font style="19" color="0x9A93EB"></font>
 	<highlight>
 		<list1 list="1">custom list</list1>
 	</highlight>
-	<font style="22" color="0x8000FF"></font>
-	<font style="21" color="0x400080"></font>
+	<font style="22" color="0xEFD966"></font>
+	<font style="21" color="0x0080FF" italic="1"></font>
 	<font style="11" color="0x5E7175" bold="0" font="Consolas" italic="1" size="10" strikeout="0" underline="0"></font>
-	<font style="17" color="0x9A93EB"></font>
+	<font style="17" color="0x7226F9" italic="1"></font>
 	<font bool="1" code="2068" color="0x3E4849"></font>
 	<font bool="1" code="2067" color="0xECE000"></font>
 	<font code="2098" color="0x4E5460"></font>
+	<font style="10" color="0x2929EF"></font>
+	<font style="9" color="0x82E9F4" background="0x1C3D40"></font>
+	<font style="8" color="0x7226F9"></font>
+	<font style="20" color="0xEFD966" italic="1" background="0x272112"></font>
+	<font style="23" color="0x7226F9" italic="1"></font>
+	<font style="24" color="0xFF00FF" background="0x272112"></font>
 </fonts>
