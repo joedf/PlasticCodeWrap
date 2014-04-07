@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- http://www.autohotkey.com/board/topic/85996-ahk-studio/page-15#entry642277 -->
+<fonts>
+	<name>Livid Dark</name>
+	<author>Sanctus</author>
+	<font background="262400" bold="1" color="16119285" font="Consolas" size="10" style="5" italic="0" strikeout="0" underline="0"></font>
+	<font background="3355443" style="33" color="15000804"></font>
+	<font style="0" color="13495789"></font>
+	<font style="1" color="46848" bold="0" italic="1" size="10" strikeout="0" underline="0"></font>
+	<font style="2" color="2522612"></font>
+	<font style="3" color="9672908"></font>
+	<font style="4" color="16721047"></font>
+	<font style="11" color="46848" bold="0" italic="1" size="10" strikeout="0" underline="0"></font>
+	<font style="13" color="255" background="0"></font>
+	<font style="15" color="12110995"></font>
+	<font style="17" color="10731469"></font>
+	<font style="18" color="10731469"></font>
+	<font style="19" color="16721047"></font>
+	<font style="21" color="16761220"></font>
+	<font style="22" color="7539902"></font>
+	<font style="37" color="13495789"></font>
+	<font bool="1" code="2067" color="491790"></font>
+	<font bool="1" code="2068" color="16765650"></font>
+	<font code="2069" color="16777215"></font>
+	<font code="2098" color="9633865"></font>
+	<font code="2600" color="15450263"></font>
+	<font code="2601" color="6160384"></font>
+	<font style="20" color="16119285"></font>
+	<font style="8" color="16761220"></font>
+	<font style="9" color="15073510"></font>
+	<font style="10" color="590803"></font>
+</fonts>
