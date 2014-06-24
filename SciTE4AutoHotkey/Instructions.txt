@@ -1,4 +1,4 @@
-Copy "PlasticCodeWrap.style.properties" or "Monokai.style.properties" to
+Copy "PlasticCodeWrap.style.properties" or "Monokai.style.properties", ... to
 	"C:\Users\<username>\Documents\AutoHotkey\SciTE\Styles" or
 	"SciTE\Styles"
 
@@ -10,3 +10,5 @@ SciTE4AutoHotkey.
 Optionally, you could also do the following changes:
 - changes the font to Consolas, 10
 - set the "default zoom" to -1
+
+For the GitHub theme, I recommend a "default zoom" of '0'.
