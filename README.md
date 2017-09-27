@@ -12,6 +12,7 @@ ported by Joe DF, etc.
 Now Available For:                   
 - [AHK Studio](AHK_Studio)  
 - [Aptana](Aptana)   
+- [Atom](atom)
 - [Crimson Editor](Crimson_Editor)    
 - [Dev-C++](Dev-C++)     
 - [Eclipse](Eclipse)      
