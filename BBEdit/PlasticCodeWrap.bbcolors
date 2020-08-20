@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<string>rgba(0.043137,0.086275,0.113725,1.0)</string>
+	<key>CommentsColor</key>
+	<string>rgba(0.117647,0.603922,0.878431,1.0)</string>
+	<key>CtagsIdentifierColor</key>
+	<string>rgba(0.694118,0.701961,0.729412,0.129412)</string>
+	<key>ForegroundColor</key>
+	<string>rgba(0.972549,0.972549,0.972549,1.0)</string>
+	<key>HTMLAnchorColor</key>
+	<string>rgba(0.619608,1.0,1.0,1.0)</string>
+	<key>HTMLAttributeNameColor</key>
+	<string>rgba(0.333333,0.894118,0.223529,1.0)</string>
+	<key>HTMLAttributeValueColor</key>
+	<string>rgba(1.0,0.705882,0.329412,1.0)</string>
+	<key>HTMLImageColor</key>
+	<string>rgba(0.929412,0.941176,0.501961,1.0)</string>
+	<key>HTMLProcessingDirectiveColor</key>
+	<string>rgba(0.686275,0.768627,0.858824,1.0)</string>
+	<key>HTMLTagColor</key>
+	<string>rgba(1.0,0.227451,0.513725,1.0)</string>
+	<key>HighlightInsertionPoint</key>
+	<true/>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>rgba(0.086275,0.180392,0.239216,1.0)</string>
+	<key>InvisibleOthersColor</key>
+	<string>rgba(1.0,1.0,1.0,0.250980)</string>
+	<key>InvisibleSpacesColor</key>
+	<string>rgba(0.498039216,0.498039216,0.498039216,1.0)</string>
+	<key>KeywordsColor</key>
+	<string>rgba(1.0,0.666667,0.0,1.0)</string>
+	<key>NumericConstantColor</key>
+	<string>rgba(1.0,0.227451,0.513725,1.0)</string>
+	<key>PredefinedNamesColor</key>
+	<string>rgba(0.929412,0.941176,0.501961,1.0)</string>
+	<key>PrimaryHighlightColor</key>
+	<string>rgba(0.772549,0.874510,0.913725,0.501961)</string>
+	<key>PythonDecoratorColor</key>
+	<string>rgba(0.302083,0.442156,0.620372,1.0)</string>
+	<key>SecondaryHighlightColor</key>
+	<string>rgba(0.086275,0.180392,0.239216,1.0)</string>
+	<key>SpellingColor</key>
+	<string>rgba(0.847059,0.160784,0.050980,0.749020)</string>
+	<key>StringColor</key>
+	<string>rgba(0.333333,0.894118,0.223529,1.0)</string>
+	<key>UseCustomHighlightColor</key>
+	<true/>
+</dict>
+</plist>
