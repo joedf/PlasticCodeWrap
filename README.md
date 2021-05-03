@@ -33,7 +33,7 @@ Now Available For:
 - [Sublime Text](SublimeText_and_Textmate)     
 - [Textmate](SublimeText_and_Textmate)      
 - [Visual Studio](Visual_Studio_and_SharpDevelop)   
-- [Visual Studio_Code](Visual_Studio_Code)   
+- [Visual Studio Code](Visual_Studio_Code)   
 - [WikiPad](WikiPad)   
      
 Get them all in a zip here:       
