@@ -32,7 +32,8 @@ Now Available For:
 - [SharpDevelop](Visual_Studio_and_SharpDevelop)     
 - [Sublime Text](SublimeText_and_Textmate)     
 - [Textmate](SublimeText_and_Textmate)      
-- [Visual Studio](Visual_Studio_and_SharpDevelop)    
+- [Visual Studio](Visual_Studio_and_SharpDevelop)   
+- [Visual Studio_Code](Visual_Studio_Code)   
 - [WikiPad](WikiPad)   
      
 Get them all in a zip here:       
