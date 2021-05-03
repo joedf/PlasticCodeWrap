@@ -24,7 +24,11 @@ Visual Studio Version:
 	Note: SharpDevelop - Compatible
 	
 --
-PHPStorm v7.x Version
+Visual Studio Code Version:
+	Ported by Zack Reithmeyer
+	https://marketplace.visualstudio.com/items?itemName=thunderblaster.theme-plasticcodewrap
+--
+PHPStorm v7.x Version:
 	Ported by Shadowdare
 	https://github.com/shadowdare
 --
